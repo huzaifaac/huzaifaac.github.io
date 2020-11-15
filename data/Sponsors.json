@@ -1,0 +1,49 @@
+[	
+	{
+		"group_title":"General sponsors",
+		"sponsors": [
+			{
+				"id":"valispace",
+				"name":"Valispace",
+				"site":"https://www.valispace.com/",
+				"logo":"valispace"
+			},
+			{
+				"id":"university_of_glasgow",
+				"name":"University of Glasgow",
+				"site":"https://www.gla.ac.uk/",
+				"logo":"university"
+			},
+			{
+				"id":"ukseds",
+				"name":"UKSEDS",
+				"site":"https://ukseds.org/",
+				"logo":"ukseds"
+			},
+			{
+				"id":"4dsystems",
+				"name":"4D SYSTEMS",
+				"site":"https://4dsystems.com.au/",
+				"logo":"4dsystems"
+			},
+			{
+				"id":"tecbridge",
+				"name":"TECBRIDGE CIRCUITS",
+				"site":"http://www.tecbridgecircuits.co.uk/",
+				"logo":"tecbridge"
+			},
+			{
+				"id":"stratonauts",
+				"name":"STRATONAUTS",
+				"site":"https://www.stratonauts.org/",
+				"logo":"stratonauts"
+			},
+			{
+				"id":"gu68",
+				"name":"GU68 ENGINEERS TRUST",
+				"site":"https://guengtrust.org.uk/",
+				"logo":"gu68"
+			}
+		]
+	}
+]

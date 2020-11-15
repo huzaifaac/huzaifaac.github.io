@@ -1,0 +1,28 @@
+[	
+	{
+		"group_title":"Current projects",
+		"projects": [
+			{
+				"id":"ukseds",
+				"name":"UKSEDS",
+				"description": "UK Students for the Exploration and Development of Space (UKSEDS) is the UK’s national student space society.",
+				"site":"ukseds",
+				"logo":"ukseds"
+			},
+			{
+				"id":"astraeus",
+				"name":"Astraeus",				
+				"description": "We want to launch our own satellite in 2021.",
+				"site":"astraeus",
+				"logo":"astraeus"
+			},
+			{
+				"id":"cloudview",
+				"name":"CloudView",				
+				"description": "We are launching a weather balloon with Stratonauts in March.",
+				"site":"cloudview",
+				"logo":"cloudview"
+			}
+		]
+	}
+]

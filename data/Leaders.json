@@ -1,0 +1,21 @@
+[{
+  "name":"Philip Vodouris",
+  "role":"President",
+  "photo":"philip_vodouris",
+  "linkedin": "https://www.linkedin.com/in/philip-voudouris-669995159/"
+},
+{
+  "name":"Marwan Hussein",
+  "role":"Vice President",
+  "linkedin":"https://www.linkedin.com/in/marwan-hussein-4a8b7b191/"
+},{
+  "name":"Charles Cameron",
+  "role":"Embedded System Team Leader",
+  "photo":"charles_cameron",
+  "linkedin":"https://www.linkedin.com/in/charles-c-9b9412135/"
+},{
+  "name":"Martina Löfqvist",
+  "role":"Software Team Leader",
+  "photo":"martina_lofqvist",
+  "linkedin":"https://www.linkedin.com/in/martinalofqvist/"
+}]
